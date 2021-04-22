@@ -4,7 +4,7 @@ public class Launch
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello Welcome to the Version Control Tool Class");
+		System.out.println("Hi Welcome to the Version Control Tool Class");
 
 	}
 
